@@ -1,0 +1,29 @@
+body {
+	background: #fff6f8;
+	margin: 0;
+}
+
+.centered {
+	height: auto;
+}
+
+h1 {
+	font-family: essonnes-display;
+	font-style: italic;
+	font-weight: 300;
+	width: 100%;
+	text-align: center;
+	font-size: 23vw;
+	margin: 0;
+}
+
+
+h2 {
+	font-family: essonnes-display;
+	font-style: italic;
+	font-weight: 300;
+	width: 100%;
+	text-align: center;
+	font-size: 10vw;
+	margin: 0;
+}
